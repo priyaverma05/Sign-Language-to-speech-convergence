@@ -1,7 +1,7 @@
 # Sign-Language-to-speech-convergence
 Breaking communication barriers with technology! This cutting-edge project translates sign language gestures into audible speech in real-time, empowering individuals who are deaf or hard of hearing.
 
-## 🛠️ Hardware Components:
+##🛠️ Hardware Components:
 🔹 Arduino Uno – The system’s core, processing sensor inputs
 
 🔹 Flex Sensors – Detect finger movements to interpret gestures
@@ -14,7 +14,7 @@ Breaking communication barriers with technology! This cutting-edge project trans
 
 
 
-## 🌟 Key Features:
+##🌟 Key Features:
 ✅ Instant sign language recognition
 
 ✅ Wireless, compact, and portable design
